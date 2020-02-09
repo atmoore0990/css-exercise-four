@@ -1,4 +1,43 @@
 body {
-  background-color: #dadada;
+  background-color: #white;
   font-size: 10px;
 }
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+
+/*just stuff for the title box*/
+.title-box{
+  padding: 50px;
+  width: 500px;
+  background-color: dddddd;
+}
+.emphasis {
+  font-size: 18px;
+  font-family: sans-serif;
+}
+/*-------------------------*/
+
+.preview {
+	display: inline-block;
+  width:200px
+  height:200px;
+}
+
+.baku{
+
+  background-image:url('images/baku.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.london{}
+
+.madrid{}
+
+.rome{}
